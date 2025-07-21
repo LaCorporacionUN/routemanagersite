@@ -1,0 +1,153 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/lacorporacionun.github.io/</id>
+  <title>RouteManager</title>
+  <subtitle>Un sistema de gestión de rutas para tu empresa o emprendimiento</subtitle>
+  <updated>2025-07-20T20:36:42-05:00</updated>
+  <author>
+    <name>LaCorporacion</name>
+    <uri>http://localhost:4000/lacorporacionun.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/lacorporacionun.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es"
+    href="http://localhost:4000/lacorporacionun.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 LaCorporacion </rights>
+  <icon>/lacorporacionun.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>/lacorporacionun.github.io/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Conclusiones</title>
+    <link href="http://localhost:4000/lacorporacionun.github.io/posts/Conclusiones/" rel="alternate" type="text/html" title="Conclusiones" />
+    <published>2025-07-20T20:35:00-05:00</published>
+  
+    <updated>2025-07-20T20:35:00-05:00</updated>
+  
+    <id>http://localhost:4000/lacorporacionun.github.io/posts/Conclusiones/</id>
+    <content type="text/html" src="http://localhost:4000/lacorporacionun.github.io/posts/Conclusiones/" />
+    <author>
+      <name>LaCorporacion</name>
+    </author>
+
+  
+    
+    <category term="proyecto" />
+    
+    <category term="conclusiones" />
+    
+  
+
+  <summary>Conclusiones finalizado el proyecto</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Desarrollo</title>
+    <link href="http://localhost:4000/lacorporacionun.github.io/posts/Desarrollo/" rel="alternate" type="text/html" title="Desarrollo" />
+    <published>2025-07-20T20:00:00-05:00</published>
+  
+    <updated>2025-07-20T20:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/lacorporacionun.github.io/posts/Desarrollo/</id>
+    <content type="text/html" src="http://localhost:4000/lacorporacionun.github.io/posts/Desarrollo/" />
+    <author>
+      <name>LaCorporacion</name>
+    </author>
+
+  
+    
+    <category term="proyecto" />
+    
+    <category term="desarrollo" />
+    
+  
+
+  <summary>Desarrollo del proyecto</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Diseño</title>
+    <link href="http://localhost:4000/lacorporacionun.github.io/posts/Dise%C3%B1o/" rel="alternate" type="text/html" title="Diseño" />
+    <published>2025-07-20T14:00:00-05:00</published>
+  
+    <updated>2025-07-20T14:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/lacorporacionun.github.io/posts/Dise%C3%B1o/</id>
+    <content type="text/html" src="http://localhost:4000/lacorporacionun.github.io/posts/Dise%C3%B1o/" />
+    <author>
+      <name>LaCorporacion</name>
+    </author>
+
+  
+    
+    <category term="proyecto" />
+    
+    <category term="diseño" />
+    
+  
+
+  <summary>Diseño del proyecto</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Análisis</title>
+    <link href="http://localhost:4000/lacorporacionun.github.io/posts/Analisis/" rel="alternate" type="text/html" title="Análisis" />
+    <published>2025-07-20T12:00:00-05:00</published>
+  
+    <updated>2025-07-20T12:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/lacorporacionun.github.io/posts/Analisis/</id>
+    <content type="text/html" src="http://localhost:4000/lacorporacionun.github.io/posts/Analisis/" />
+    <author>
+      <name>LaCorporacion</name>
+    </author>
+
+  
+    
+    <category term="proyecto" />
+    
+    <category term="análisis" />
+    
+  
+
+  <summary>Análisis del proyecto</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Route Manager SaaS</title>
+    <link href="http://localhost:4000/lacorporacionun.github.io/posts/Bienvenida/" rel="alternate" type="text/html" title="Route Manager SaaS" />
+    <published>2025-07-20T10:00:00-05:00</published>
+  
+    <updated>2025-07-20T10:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/lacorporacionun.github.io/posts/Bienvenida/</id>
+    <content type="text/html" src="http://localhost:4000/lacorporacionun.github.io/posts/Bienvenida/" />
+    <author>
+      <name>LaCorporacion</name>
+    </author>
+
+  
+    
+    <category term="bienvenida" />
+    
+    <category term="introduccion" />
+    
+  
+
+  <summary>Mensaje de bienvenida al blog de desarrollo</summary>
+
+  </entry>
+
+</feed>
+
+
