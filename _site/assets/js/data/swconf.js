@@ -1,16 +1,16 @@
 const swconf = {
   
-    cacheName: 'chirpy-1753061802',resources: [
-      '/lacorporacionun.github.io/assets/css/jekyll-theme-chirpy.css',
-      '/lacorporacionun.github.io/',
+    cacheName: 'chirpy-1753062307',resources: [
+      '/routemanagersite/assets/css/jekyll-theme-chirpy.css',
+      '/routemanagersite/',
       
-        '/lacorporacionun.github.io/categories/',
+        '/routemanagersite/categories/',
       
-        '/lacorporacionun.github.io/tags/',
+        '/routemanagersite/tags/',
       
-        '/lacorporacionun.github.io/archives/',
+        '/routemanagersite/archives/',
       
-        '/lacorporacionun.github.io/about/',
+        '/routemanagersite/about/',
       
 
       
